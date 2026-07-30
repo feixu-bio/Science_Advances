@@ -1,0 +1,3 @@
+for spinSR ATTO565 channel
+diameter 0.5 um
+threshold 150
